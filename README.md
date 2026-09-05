@@ -24,6 +24,9 @@ Smart City Delivery System — это современная событийно-
 🛡 Защита от сбоев с Circuit Breaker и Retry
 
 Cтек:
-Java 17,Spring Boot 3,Spring Cloud,Apache Kafka,Docker & Kubernetes,Redis,PostgreSQL,MongoDB,WebSocket,JWT Security,OpenAPI/Swagger,Micrometer/Monitoring,Grafana + Prometheus
+Java 17,Spring Boot 3,Spring Cloud,Apache Kafka,
+Docker & Kubernetes,Redis,PostgreSQL,MongoDB,
+WebSocket,JWT Security,OpenAPI/Swagger,
+Micrometer/Monitoring,Grafana + Prometheus
 
 
